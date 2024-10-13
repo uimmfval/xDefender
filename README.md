@@ -1,7 +1,8 @@
 # xDefender
 
 
-Windows11 24H2 26100.2033 tested
+Windows11 24H2 26100.2033 tested , based on Batchfile .
+
 
 A tool for automatically enabling and disabling Windows Defender.
 
