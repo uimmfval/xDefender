@@ -12,5 +12,3 @@ xDefender requires NSudo9.0 (https://github.com/M2TeamArchived/NSudo) as a privi
 
 > xDefender需要 NSudo9.0 (https://github.com/M2TeamArchived/NSudo) 作为提权工具。运行中会自己动判断Windows Defender运行状态，并进入安全模式后自动更改设置。如果发生蓝屏，请无视...
 
-
-![谢谢您的咖啡](https://github.com/user-attachments/assets/11024aa3-5a61-4d12-8a27-66bc912ad0ac)
