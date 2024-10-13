@@ -1,7 +1,8 @@
 # xDefender
 
-Windows11 24H2 26100.2033 tested
 ----------------------------------------------------------------------------
+Windows11 24H2 26100.2033 tested
+
 A tool for automatically enabling and disabling Windows Defender.
 
 xDefender requires NSudo (https://github.com/M2TeamArchived/NSudo) as a privilege escalation tool. During execution, it automatically detects the Windows Defender status and changes settings after entering Safe Mode. If a blue screen occurs, please ignore it...
